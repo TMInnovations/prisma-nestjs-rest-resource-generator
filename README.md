@@ -1,0 +1,1 @@
+# prisma-nestjs-rest-resource-generator
